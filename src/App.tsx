@@ -1,12 +1,12 @@
 import { FormEvent, ReactNode, useState } from 'react'
-
+import facialImg from './assets/facial.jpg';
 const images = {
   hero: 'https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=1600&q=90',
   botox: 'https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=900&q=85',
   filler: 'https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=900&q=85',
   skin: 'https://images.unsplash.com/photo-1619451334792-150fd785ee74?auto=format&fit=crop&w=900&q=85',
   laser: 'https://images.unsplash.com/photo-1612902456551-333ac5afa26e?auto=format&fit=crop&w=900&q=85',
-  facial: 'factal_picture.webp',
+  facial: facialImg,
   hifu: 'https://images.unsplash.com/photo-1614859324967-1ce35fffc7c9?auto=format&fit=crop&w=900&q=85',
   doctor1: 'https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&w=800&q=85',
   doctor2: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=800&q=85',
