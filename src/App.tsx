@@ -1,5 +1,5 @@
 import { FormEvent, ReactNode, useState } from 'react'
-import facialImg from './assets/facial.jpg';
+import facialImg from './assets/factal_picture.webp';
 const images = {
   hero: 'https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=1600&q=90',
   botox: 'https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=900&q=85',
