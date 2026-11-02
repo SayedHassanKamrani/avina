@@ -1,0 +1,10 @@
+{
+  "description": "کلینیک زیبایی آوینا معرفی خدمات، پزشکان و نتایج درمان را ارائه می‌دهد و به مراجعان امکان می‌دهد مشاوره بگیرند و نوبت رزرو کنند.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
