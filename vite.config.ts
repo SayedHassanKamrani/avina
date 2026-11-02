@@ -15,7 +15,7 @@ export default defineConfig(({ mode }) => {
   return {
     base:  '/avina/',
     build: {
-      sourcemap: emitSourcemaps ? 'inline' : false,
+      sourcemap:  false,
       minify: !emitSourcemaps,
     },
     plugins: [
