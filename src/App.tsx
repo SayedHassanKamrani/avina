@@ -3,8 +3,8 @@ import facialImg from './assets/facial.webp';
 const images = {
   hero: 'https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=1600&q=90',
   botox: 'https://plus.unsplash.com/premium_photo-1661769358914-1d33c22bd7ba?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D',
-  filler: 'https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=900&q=85',
-  skin: 'https://plus.unsplash.com/premium_photo-1719617672900-41bb8c3ae2eb?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D',
+  filler: 'https://plus.unsplash.com/premium_photo-1719617672900-41bb8c3ae2eb?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D',
+  skin: 'https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D',
   laser: 'https://images.unsplash.com/photo-1700760934166-4c766d708139?q=80&w=464&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D',
   facial: "https://images.unsplash.com/photo-1731514771613-991a02407132?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
   hifu: 'https://plus.unsplash.com/premium_photo-1661506876297-c3524d07accf?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D',
