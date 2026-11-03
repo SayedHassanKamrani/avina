@@ -2,12 +2,12 @@ import { FormEvent, ReactNode, useState } from 'react'
 import facialImg from './assets/facial.webp';
 const images = {
   hero: 'https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=1600&q=90',
-  botox: 'https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=900&q=85',
+  botox: 'https://plus.unsplash.com/premium_photo-1661769358914-1d33c22bd7ba?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D',
   filler: 'https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=900&q=85',
-  skin: 'https://images.unsplash.com/photo-1619451334792-150fd785ee74?auto=format&fit=crop&w=900&q=85',
-  laser: 'https://images.unsplash.com/photo-1612902456551-333ac5afa26e?auto=format&fit=crop&w=900&q=85',
-  facial: facialImg,
-  hifu: 'https://images.unsplash.com/photo-1614859324967-1ce35fffc7c9?auto=format&fit=crop&w=900&q=85',
+  skin: 'https://plus.unsplash.com/premium_photo-1719617672900-41bb8c3ae2eb?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D',
+  laser: 'https://images.unsplash.com/photo-1700760934166-4c766d708139?q=80&w=464&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D',
+  facial: "https://images.unsplash.com/photo-1731514771613-991a02407132?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+  hifu: 'https://plus.unsplash.com/premium_photo-1661506876297-c3524d07accf?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D',
   doctor1: 'https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&w=800&q=85',
   doctor2: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=800&q=85',
   doctor3: 'https://images.unsplash.com/photo-1584982751601-97dcc096659c?auto=format&fit=crop&w=800&q=85',
